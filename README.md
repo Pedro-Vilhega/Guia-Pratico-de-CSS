@@ -23,4 +23,4 @@ O objetivo do projeto é praticar os principais conceitos de CSS a partir de uma
 - Visual Studio Code
 
 ## Projeto Publicado
-[Visualizar projeto no GitHub Pages](https://github.com/Pedro-Vilhega/Guia-Pratico-de-CSS/)
+[Visualizar projeto no GitHub Pages](https://pedro-vilhega.github.io/Guia-Pratico-de-CSS/)
